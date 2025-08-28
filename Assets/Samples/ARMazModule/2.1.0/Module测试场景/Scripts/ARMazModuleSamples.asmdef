@@ -1,0 +1,18 @@
+{
+    "name": "ARMazModuleSamples",
+    "rootNamespace": "",
+    "references": [
+        "GUID:fdd53198e30a24084af85369d5ffff45",
+        "GUID:f51ebe6a0ceec4240a699833d6309b23",
+        "GUID:431c29fb46195d145b9b5ea8fd360710"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

@@ -1,0 +1,19 @@
+{
+    "name": "com.rokid.armaz.wenhuaqiang",
+    "rootNamespace": "com.rokid.armaz.wenhuaqiang",
+    "references": [
+        "GUID:f51ebe6a0ceec4240a699833d6309b23",
+        "GUID:bf840916a5460934599550d8a4331efe",
+        "GUID:fe14bc9dd681249d19cf4ef377c7e29e",
+        "GUID:fdd53198e30a24084af85369d5ffff45"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": true,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": false,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
