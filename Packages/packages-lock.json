@@ -8,7 +8,7 @@
       "hash": "64285ae060c9fe2aeb2a73b076b160939ce3be1a"
     },
     "com.rokid.armaz.module": {
-      "version": "file:com.rokid.armaz.module-2.2.0.tgz",
+      "version": "file:com.rokid.armaz.module-2.3.0.tgz",
       "depth": 0,
       "source": "local-tarball",
       "dependencies": {
