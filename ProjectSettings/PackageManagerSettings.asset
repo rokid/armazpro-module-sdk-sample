@@ -13,7 +13,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   m_EnablePreReleasePackages: 0
-  m_AdvancedSettingsExpanded: 1
+  m_AdvancedSettingsExpanded: 0
   m_ScopedRegistriesSettingsExpanded: 1
   m_SeeAllPackageVersions: 0
   m_DismissPreviewPackagesInUse: 0
@@ -34,11 +34,19 @@ MonoBehaviour:
     m_IsDefault: 0
     m_Capabilities: 0
     m_ConfigSource: 4
-  m_UserSelectedRegistryName: rokid
+  - m_Id: scoped:project:rokid_armaz
+    m_Name: rokid_armaz
+    m_Url: http://npm.armaz.rokid.com:18080
+    m_Scopes:
+    - com.rokid.armaz
+    m_IsDefault: 0
+    m_Capabilities: 0
+    m_ConfigSource: 4
+  m_UserSelectedRegistryName: rokid_armaz
   m_UserAddingNewScopedRegistry: 0
   m_RegistryInfoDraft:
     m_Modified: 0
     m_ErrorMessage: 
-    m_UserModificationsInstanceId: -858
-    m_OriginalInstanceId: -860
+    m_UserModificationsInstanceId: -838
+    m_OriginalInstanceId: -842
   m_LoadAssets: 0
